@@ -1,3 +1,3 @@
 export const routes = {
-    main : 'http://localhost:3001/'
+    localhost : 'http://localhost:8080/'
   };
